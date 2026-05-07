@@ -29,6 +29,6 @@ This document outlines the tasks I will initiate during summer 2026 to prepare 
 
 ## Timeline
 
-- **May–June 2026:** Research WSU labs, compile a list of potential faculty mentors and attend any available seminars.  Identify open source projects of interest and start exploring their contribution guidelines.
-- **July–August 2026:** Draft outreach emails to professors, connect with graduate students or TAs, and work on small open source contributions (documentation, typos, etc.).  Begin early research on internship postings and prepare a résumé for the application season.
-- **September–December 2026:** Send emails to labs, meet potential mentors and hopefully join a lab.  Continue contributing to open source and develop side projects.  Apply to internship programs and practice technical interviews.
+- **May: June 2026:** Research WSU labs, compile a list of potential faculty mentors and attend any available seminars.  Identify open source projects of interest and start exploring their contribution guidelines.
+- **July: August 2026:** Draft outreach emails to professors, connect with graduate students or TAs, and work on small open source contributions (documentation, typos, etc.).  Begin early research on internship postings and prepare a résumé for the application season.
+- **September: December 2026:** Send emails to labs, meet potential mentors and hopefully join a lab.  Continue contributing to open source and develop side projects.  Apply to internship programs and practice technical interviews.
