@@ -1,4 +1,4 @@
-# Choose Your Own Adventure 02: Research‑Lab & Open Source Preparation
+# Choose Your Own Adventure 02
 
 ## Overview of the chosen adventure
 
@@ -6,7 +6,7 @@ For my second career development adventure, I will **prepare to join a research 
 
 ### Why this activity?
 
-My short‑term goal is to gain hands‑on research experience by working with a faculty mentor in a lab that aligns with my interests in networking, cybersecurity and data science.  Universities encourage undergraduates from any major to participate in research, and faculty value curiosity and dedication over perfect grades【498749047136474†L79-L93】.  At the same time, I want to build my public portfolio and improve my skills by contributing to an open source project.  Open source contributions can teach coding, documentation, design and project management, and they help you meet people with similar interests【689267804346518†L34-L83】.  Finally, I aim to secure a **software engineering internship** for summer 2027; early preparation, self‑assessment, and side projects are key to landing these competitive roles【841212808208285†L128-L143】.
+My short‑term goal is to gain hands‑on research experience by working with a faculty mentor in a lab that aligns with my interests in networking, cybersecurity and data science.  Universities encourage undergraduates from any major to participate in research, and faculty value curiosity and dedication over perfect grades.  At the same time, I want to build my public portfolio and improve my skills by contributing to an open source project.  Open source contributions can teach coding, documentation, design and project management, and they help you meet people with similar interests.  Finally, I aim to secure a **software engineering internship** for summer 2027; early preparation, self‑assessment, and side projects are key to landing these competitive roles.
 
 ## Deliverable summary
 
@@ -20,11 +20,11 @@ This repository contains planning documents and reflections related to this adve
 
 - **Short‑term (within one year):**
   - Identify 2‑3 WSU research labs whose topics excite me (e.g., cybersecurity, networking, data science) and reach out to faculty mentors.
-  - Start contributing to a beginner‑friendly open source project by working on documentation or small issues.  Start by exploring projects I use and scanning their `/contribute` pages for beginner issues【689267804346518†L304-L326】.
-  - Apply for summer 2027 internships at tech companies; begin early, self‑assess my skills and build side projects【841212808208285†L128-L144】.
+  - Start contributing to a beginner‑friendly open source project by working on documentation or small issues.  Start by exploring projects I use and scanning their `/contribute` pages for beginner issues.
+  - Apply for summer 2027 internships at tech companies; begin early, self‑assess my skills and build side projects.
 
 - **Long‑term (3–5 years):**
   - Earn a full‑time position in research and development or cybersecurity after graduation.  Experience in labs and open source will build the technical expertise and portfolio necessary for these roles.
-  - Continue contributing to open source communities and mentor others.  Open source work helps build a public reputation and develop leadership skills【689267804346518†L67-L83】.
+  - Continue contributing to open source communities and mentor others.  Open source work helps build a public reputation and develop leadership skills.
 
 See the accompanying documents in this repository for more detail on how I plan to achieve these goals and reflect on the process.
