@@ -1,10 +1,10 @@
 # Choose Your Own Adventure 02
 
-## Overview of the chosen adventure
+## Overview
 
-For my second career development adventure, I will **prepare to join a research lab** at Washington State University (WSU) next academic year, **identify a suitable open source project to contribute to**, and **begin the search for a summer 2027 internship**.  Although I have not yet taken concrete action—classes just ended and I will start these initiatives over the summer—I have outlined the steps and resources needed to pursue these goals.  This preparation will help me make informed decisions, contact the right people, and be ready when opportunities arise.
+For my second career development adventure, I will **prepare to join a research lab** at Washington State University (WSU) next academic year, **identify a suitable open source project to contribute to**, and **begin the search for a summer 2027 internship**.  Although I have not yet taken concrete action classes just ended and I will start these initiatives over the summer and I have outlined the steps and resources needed to pursue these goals.  This preparation will help me make informed decisions, contact the right people, and be ready when opportunities arise.
 
-### Why this activity?
+### Why?
 
 My short‑term goal is to gain hands‑on research experience by working with a faculty mentor in a lab that aligns with my interests in networking, cybersecurity and data science.  Universities encourage undergraduates from any major to participate in research, and faculty value curiosity and dedication over perfect grades.  At the same time, I want to build my public portfolio and improve my skills by contributing to an open source project.  Open source contributions can teach coding, documentation, design and project management, and they help you meet people with similar interests.  Finally, I aim to secure a **software engineering internship** for summer 2027; early preparation, self‑assessment, and side projects are key to landing these competitive roles.
 
