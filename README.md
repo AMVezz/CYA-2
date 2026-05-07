@@ -14,7 +14,7 @@ This repository contains planning documents and reflections related to this adve
 
 - **planning_notes.md** – A step‑by‑step preparation plan for contacting research labs, selecting an open source project and preparing for internship applications.
 - **resources.md** – Summarised notes from credible sources on how undergraduates join research labs, benefits and strategies for contributing to open source, and tips for preparing for software internships.  Citations are included.
-- **reflection.md** – A ~500‑word reflection evaluating my decisions, contributions, quality of planning and alignment with my career goals.
+- **reflection.md** – A reflection evaluating my decisions, contributions, quality of planning and alignment with my career goals.
 
 ## Career goals
 
