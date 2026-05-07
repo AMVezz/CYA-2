@@ -2,7 +2,7 @@
 
 ### Activity description
 
-For the second **Choose Your Own Adventure** assignment I focused on **preparing** to join a research lab, contribute to open source and secure a summer 2027 software engineering internship.  Because the spring semester has just ended, I have not yet taken concrete actions; instead, I created a preparation plan informed by articles, guides and my career goals.  I researched how undergraduates can get involved in faculty‑led research, identified strategies for discovering open source projects and planned steps for a competitive internship search.  The planning process involved reading official resources and compiling notes into a clear timeline.
+For the second **Choose Your Own Adventure** assignment I focused on **preparing** to join a research lab, contribute to open source and secure a summer 2027 software engineering internship.  Because the spring semester has just ended, I have not yet taken concrete actions; instead, I created a preparation plan informed by articles, guides and my career goals.  I researched how undergraduates can get involved in faculty research, identified strategies for discovering open source projects and planned steps for a competitive internship search.  The planning process involved reading official resources and compiling notes into a clear timeline.
 
 ### Key decisions
 
